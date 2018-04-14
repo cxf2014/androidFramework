@@ -1,9 +1,9 @@
 # androidFramework
-集成的框架如下
-logger
-fragmentation 一个activity多个fragment
-封装activity堆栈，
-ImmersionBar沉浸式，
+#集成的框架如下
+#logger
+#fragmentation 一个activity多个fragment
+#封装activity堆栈，
+#ImmersionBar沉浸式，
 EventBus事件总线,
 Butterknife依赖注入，
 Gson数据解释。
