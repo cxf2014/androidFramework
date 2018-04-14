@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\caoxuefeng\\AndroidFrame\\Azzqg\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_recovery_sub.xml",
+        "source": "D:\\caoxuefeng\\AndroidFrame\\Azzqg\\app\\build\\intermediates\\exploded-aar\\com.zxy.android\\recovery\\0.0.8\\res\\menu\\menu_recovery_sub.xml"
+    },
+    {
+        "merged": "D:\\caoxuefeng\\AndroidFrame\\AndroidFrame\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_recovery_sub.xml",
+        "source": "D:\\caoxuefeng\\AndroidFrame\\AndroidFrame\\app\\build\\intermediates\\exploded-aar\\com.zxy.android\\recovery\\0.0.8\\res\\menu\\menu_recovery_sub.xml"
+    },
+    {
+        "merged": "D:\\caoxuefeng\\AndroidFrame\\AndroidFrame\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_recovery.xml",
+        "source": "D:\\caoxuefeng\\AndroidFrame\\AndroidFrame\\app\\build\\intermediates\\exploded-aar\\com.zxy.android\\recovery\\0.0.8\\res\\menu\\menu_recovery.xml"
+    },
+    {
+        "merged": "D:\\caoxuefeng\\AndroidFrame\\Azzqg\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_recovery.xml",
+        "source": "D:\\caoxuefeng\\AndroidFrame\\Azzqg\\app\\build\\intermediates\\exploded-aar\\com.zxy.android\\recovery\\0.0.8\\res\\menu\\menu_recovery.xml"
+    }
+]
