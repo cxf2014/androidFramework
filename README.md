@@ -1,4 +1,4 @@
-androidFramework\n
+androidFramework
 集成的框架如下
 logger
 fragmentation 一个activity多个fragment
